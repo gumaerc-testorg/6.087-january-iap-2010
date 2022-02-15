@@ -2,8 +2,13 @@
 content_type: resource
 description: Solutions to a problem set on programming in C, pointers to pointers,
   multidimensional arrays, stacks, and queues.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-087-practical-programming-in-c-january-iap-2010/1fa9cb7f08089417485fb12f118a0f5b_MIT6_087IAP10_assn06a_sol.pdf
+file: /media/courses/6-087-practical-programming-in-c-january-iap-2010/1fa9cb7f08089417485fb12f118a0f5b_MIT6_087IAP10_assn06a_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: "Problem Set 6: Part 1 \u2014 Solutions"
 uid: 1fa9cb7f-0808-9417-485f-b12f118a0f5b

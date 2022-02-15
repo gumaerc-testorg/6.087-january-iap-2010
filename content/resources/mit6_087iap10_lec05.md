@@ -4,8 +4,13 @@ description: Lecture presentation on pointers and memory addresses, physical and
   memory, addressing and indirection, functions with multiple outputs, arrays and
   pointer arithmetic, strings, string utility functions, searching and sorting algorithms,
   linear search, a simple sort, faster sorting, and binary search.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-087-practical-programming-in-c-january-iap-2010/d5a4c815a3f931d7efca0f4fb1a7604f_MIT6_087IAP10_lec05.pdf
+file: /media/courses/6-087-practical-programming-in-c-january-iap-2010/d5a4c815a3f931d7efca0f4fb1a7604f_MIT6_087IAP10_lec05.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Lecture 5
 uid: d5a4c815-a3f9-31d7-efca-0f4fb1a7604f
