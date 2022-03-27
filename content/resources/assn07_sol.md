@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 60ba6644-2570-614e-679d-7b629c9bec9d
 resourcetype: Other
 title: Problem Set 7 Solutions
 uid: 7550ce4d-52a2-4c97-2ec3-31e489c48e1d

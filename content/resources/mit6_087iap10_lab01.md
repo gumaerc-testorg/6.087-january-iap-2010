@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 2f28fa7b-829f-cc2f-5677-bdcc7f44d928
 resourcetype: Document
 title: 'Lab 1: Game of Life'
 uid: 86f222c2-f255-8ba9-5597-71ed913513f5

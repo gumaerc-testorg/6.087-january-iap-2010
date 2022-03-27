@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 2f28fa7b-829f-cc2f-5677-bdcc7f44d928
 resourcetype: Document
 title: Final Project
 uid: 9796fe2d-da54-04aa-9d14-a49081b842d8

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 2f28fa7b-829f-cc2f-5677-bdcc7f44d928
 resourcetype: Other
 title: lab01_sol
 uid: 93e7a0ff-0902-8387-9cd9-3f98789af5d1
