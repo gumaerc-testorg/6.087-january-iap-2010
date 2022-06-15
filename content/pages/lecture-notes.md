@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics and a complete set
+  of lecture slides from the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -33,7 +35,7 @@ LECTURE NOTES
 Introduction. Writing, compiling, and debugging C programs. Hello world.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_087iap10_lec01))
+({{% resource_link b7f13dd2-771c-6e85-57e0-877457d07543 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +47,7 @@ Introduction. Writing, compiling, and debugging C programs. Hello world.
 Variables and datatypes, operators.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_087iap10_lec02))
+({{% resource_link ab99b303-a223-49b7-830a-31eca6310fee "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +59,7 @@ Variables and datatypes, operators.
 Control flow. Functions and modular programming. Variable scope. Static and global variables.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_087iap10_lec03))
+({{% resource_link 6ef53f22-5955-64c4-7c0c-377ef8bd5398 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +71,7 @@ Control flow. Functions and modular programming. Variable scope. Static and glob
 More control flow. Input and output.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_087iap10_lec04))
+({{% resource_link 262cf4e0-5f03-9e45-c926-109c8aa95024 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +83,7 @@ More control flow. Input and output.
 Pointers and memory addressing. Arrays and pointer arithmetic. Strings. Searching and sorting algorithms.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_087iap10_lec05))
+({{% resource_link d5a4c815-a3f9-31d7-efca-0f4fb1a7604f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +95,7 @@ Pointers and memory addressing. Arrays and pointer arithmetic. Strings. Searchin
 User-defined datatypes, structs, unions, bitfields. Memory allocation. Linked lists, binary trees.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_087iap10_lec06))
+({{% resource_link 1aa34dec-d30f-3368-26cd-087d2f52035b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +107,7 @@ User-defined datatypes, structs, unions, bitfields. Memory allocation. Linked li
 Pointers to pointers, pointer and string arrays, multidimensional arrays. Stacks and queues.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_087iap10_lec07))
+({{% resource_link afdb6320-7659-5f21-6692-b04cafae216c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +119,7 @@ Pointers to pointers, pointer and string arrays, multidimensional arrays. Stacks
 Void and function pointers. Hash tables.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_087iap10_lec08))
+({{% resource_link 02aef29b-821a-0258-e53b-a95a648207f9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +131,7 @@ Void and function pointers. Hash tables.
 External libraries. B-trees, priority queues.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_087iap10_lec09))
+({{% resource_link 4b9152a1-2a01-274a-bfaf-5a3c2686564b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +143,7 @@ External libraries. B-trees, priority queues.
 C standard library: stdio.h, ctype.h, stdlib.h, assert.h, stdarg.h, time.h
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_087iap10_lec10))
+({{% resource_link 2d7ce9e8-1c1c-e03c-8c93-a12c9d21d0dd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +155,7 @@ C standard library: stdio.h, ctype.h, stdlib.h, assert.h, stdarg.h, time.h
 Dynamic memory allocation, malloc and valgrind, garbage collection.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_087iap10_lec11))
+({{% resource_link 62673057-5787-751a-6468-f681d95ecb9f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -165,7 +167,7 @@ Dynamic memory allocation, malloc and valgrind, garbage collection.
 Multithreading and concurrency.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_087iap10_lec12))
+({{% resource_link 40d5984d-819a-aa72-e55a-a10376b73bde "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -177,7 +179,7 @@ Multithreading and concurrency.
 Multithreaded programming. Sockets and asynchronous I/O.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_087iap10_lec13))
+({{% resource_link 9433ec97-b59a-d1ce-b135-708210141796 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -189,7 +191,7 @@ Multithreaded programming. Sockets and asynchronous I/O.
 Linux inter process communication.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_087iap10_lec14))
+({{% resource_link d819f17f-7632-a862-2af9-11360f42796f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -2,7 +2,7 @@
 content_type: resource
 description: Solutions to a problem set on programming in C, linked lists, and binary
   trees.
-file: /media/courses/6-087-practical-programming-in-c-january-iap-2010/97618d2a5c336346313abf9e2934b770_MIT6_087IAP10_assn05_sol.pdf
+file: /courses/6-087-practical-programming-in-c-january-iap-2010/97618d2a5c336346313abf9e2934b770_MIT6_087IAP10_assn05_sol.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -14,3 +14,5 @@ resourcetype: Document
 title: "Problem Set 5 \u2014 Solutions"
 uid: 97618d2a-5c33-6346-313a-bf9e2934b770
 ---
+Solutions to a problem set on programming in C, linked lists, and binary trees.
+
