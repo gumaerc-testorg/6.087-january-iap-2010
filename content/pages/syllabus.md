@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, texts, lectures and lab sessions, homework, projects, grading,
+  and collaboration and cheating policy.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 7b8a9366-2bc4-40ce-60e7-f4061a15a874
 ---
