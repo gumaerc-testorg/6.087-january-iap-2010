@@ -6,6 +6,7 @@ file: /courses/6-087-practical-programming-in-c-january-iap-2010/9796fe2dda5404a
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Final Project
 uid: 9796fe2d-da54-04aa-9d14-a49081b842d8
 ---
 Final project to build a C application leveraging one or more open-source libraries.
-

@@ -6,6 +6,7 @@ file: /courses/6-087-practical-programming-in-c-january-iap-2010/1aa34decd30f336
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture 6
 uid: 1aa34dec-d30f-3368-26cd-087d2f52035b
 ---
 Lecture presentation on user deﬁned datatypes, structures, unions, bitﬁelds, memory allocation, linked lists, and binary trees.
-

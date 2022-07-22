@@ -6,6 +6,7 @@ file: /courses/6-087-practical-programming-in-c-january-iap-2010/d819f17f7632a86
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture 14
 uid: d819f17f-7632-a862-2af9-11360f42796f
 ---
 Lecture presentation o Linux inter process communication, signals, fork(), pipes, FIFO, and project spotlights.
-

@@ -5,6 +5,7 @@ file: /courses/6-087-practical-programming-in-c-january-iap-2010/1d420c465b4225e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problem Set 2
 uid: 1d420c46-5b42-25eb-e6a8-ceb42815c64c
 ---
 Problem set on programming in C, data types, operators, and expressions.
-

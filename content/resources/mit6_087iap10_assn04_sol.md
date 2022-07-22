@@ -6,6 +6,7 @@ file: /courses/6-087-practical-programming-in-c-january-iap-2010/b2ed1416e283218
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Problem Set 4 \u2014 Solutions"
 uid: b2ed1416-e283-2184-2283-a8a99025d9f3
 ---
 Solutions to a problem set on programming in C, pointers, arrays, strings, and searching and sorting algorithms.
-

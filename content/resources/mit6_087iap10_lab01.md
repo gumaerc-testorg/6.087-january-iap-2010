@@ -5,6 +5,7 @@ file: /courses/6-087-practical-programming-in-c-january-iap-2010/86f222c2f2558ba
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lab 1: Game of Life'
 uid: 86f222c2-f255-8ba9-5597-71ed913513f5
 ---
 Lab assignment to implement John Conway's Game of Life as a C program.
-

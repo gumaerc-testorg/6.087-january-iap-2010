@@ -7,6 +7,7 @@ file: /courses/6-087-practical-programming-in-c-january-iap-2010/cd5418a0535359a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Problem Set 1
 uid: cd5418a0-5353-59a7-ac9a-ba2a1ab9fb71
 ---
 Problem set on writing, compiling, and debugging C programs, preprocessor macros, the C ﬁle structure, variables, functions and program statements, and returning from functions.
-

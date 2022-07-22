@@ -8,6 +8,7 @@ file: /courses/6-087-practical-programming-in-c-january-iap-2010/d5a4c815a3f931d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Lecture 5
 uid: d5a4c815-a3f9-31d7-efca-0f4fb1a7604f
 ---
 Lecture presentation on pointers and memory addresses, physical and virtual memory, addressing and indirection, functions with multiple outputs, arrays and pointer arithmetic, strings, string utility functions, searching and sorting algorithms, linear search, a simple sort, faster sorting, and binary search.
-

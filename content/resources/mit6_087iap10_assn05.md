@@ -5,6 +5,7 @@ file: /courses/6-087-practical-programming-in-c-january-iap-2010/887507ff7915f9a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problem Set 5
 uid: 887507ff-7915-f9ae-2dce-38f47b59e689
 ---
 Problem set on programming in C, linked lists, and binary trees.
-

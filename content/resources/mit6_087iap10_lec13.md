@@ -6,6 +6,7 @@ file: /courses/6-087-practical-programming-in-c-january-iap-2010/9433ec97b59ad1c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture 13
 uid: 9433ec97-b59a-d1ce-b135-708210141796
 ---
 Lecture presentation on multithreaded programming, race conditions, semaphores, thread safety, deadlock, and starvation, sockets, and asynchronous I/O.
-

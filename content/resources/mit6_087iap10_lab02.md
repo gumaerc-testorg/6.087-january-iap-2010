@@ -6,6 +6,7 @@ file: /courses/6-087-practical-programming-in-c-january-iap-2010/39a5b0af4d8fbeb
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lab 2: Data compression'
 uid: 39a5b0af-4d8f-beb5-8ccd-c0247c8d6528
 ---
 Lab assignment to implement a Huffman decoder using C to compress a data file.
-

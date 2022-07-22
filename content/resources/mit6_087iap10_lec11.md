@@ -7,6 +7,7 @@ file: /courses/6-087-practical-programming-in-c-january-iap-2010/626730575787751
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,5 +17,3 @@ title: Lecture 11
 uid: 62673057-5787-751a-6468-f681d95ecb9f
 ---
 Lecture presentation on dynamic memory allocation, designing the malloc() function, a simple implementation of malloc(), a real-world implementation of malloc(), using malloc(), using valgrind, and garbage collection. 
-
-
