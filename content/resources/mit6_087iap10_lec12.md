@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on multithreaded programming, Pthreads, API, Mutex,
   and conditional variables.
 file: /courses/6-087-practical-programming-in-c-january-iap-2010/40d5984d819aaa72e55aa10376b73bde_MIT6_087IAP10_lec12.pdf
+file_size: 209496
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

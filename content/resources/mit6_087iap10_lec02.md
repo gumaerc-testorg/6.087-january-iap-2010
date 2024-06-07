@@ -4,6 +4,7 @@ description: "Lecture presentation on the basics of programming in C, variables,
   \ types, operators, expressions, functions, type conversions, precedence, and order\
   \ of evaluation.\r\n"
 file: /courses/6-087-practical-programming-in-c-january-iap-2010/ab99b303a22349b7830a31eca6310fee_MIT6_087IAP10_lec02.pdf
+file_size: 218369
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

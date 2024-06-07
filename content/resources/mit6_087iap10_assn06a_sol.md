@@ -3,6 +3,7 @@ content_type: resource
 description: Solutions to a problem set on programming in C, pointers to pointers,
   multidimensional arrays, stacks, and queues.
 file: /courses/6-087-practical-programming-in-c-january-iap-2010/1fa9cb7f08089417485fb12f118a0f5b_MIT6_087IAP10_assn06a_sol.pdf
+file_size: 270486
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: Lab assignment to implement John Conway's Game of Life as a C program.
 file: /courses/6-087-practical-programming-in-c-january-iap-2010/86f222c2f2558ba9559771ed913513f5_MIT6_087IAP10_lab01.pdf
+file_size: 146521
 file_type: application/pdf
 learning_resource_types:
 - Labs
