@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to a problem set on function pointers and hash tables.
 file: /courses/6-087-practical-programming-in-c-january-iap-2010/96d273dcfa2bf3ff7be949e74053e7ff_MIT6_087IAP10_assn06b_sol.pdf
+file_size: 179910
 file_type: application/pdf
 learning_resource_types:
 - Assignments

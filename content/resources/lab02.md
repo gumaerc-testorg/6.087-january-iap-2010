@@ -4,6 +4,7 @@ description: 'Supporting files for a lab assignment to implement a Huffman decod
   using C to compress a data file. (This ZIP file contains: 4 .txt files and 2 .c
   files.)'
 file: /courses/6-087-practical-programming-in-c-january-iap-2010/041eab807a3ba02a94297d4d5994f091_lab02.zip
+file_size: 228390
 file_type: application/zip
 learning_resource_types:
 - Labs
