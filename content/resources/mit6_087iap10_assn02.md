@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set on programming in C, data types, operators, and expressions.
 file: /courses/6-087-practical-programming-in-c-january-iap-2010/1d420c465b4225ebe6a8ceb42815c64c_MIT6_087IAP10_assn02.pdf
+file_size: 80569
 file_type: application/pdf
 learning_resource_types:
 - Assignments
