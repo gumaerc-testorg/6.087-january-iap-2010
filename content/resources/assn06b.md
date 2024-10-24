@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Supporting files for a problem set on function pointers and hash tables.
   (This ZIP file contains: 1 .txt file and 2 .c files.)'
-file: /courses/6-087-practical-programming-in-c-january-iap-2010/32104fd7cc9c7bd7b99d797a113234df_assn06b.zip
+file: /ol-ocw-studio-app/courses/6-087-practical-programming-in-c-january-iap-2010/32104fd7cc9c7bd7b99d797a113234df_assn06b.zip
 file_size: 233661
 file_type: application/zip
 learning_resource_types:

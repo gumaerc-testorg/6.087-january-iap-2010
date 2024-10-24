@@ -2,7 +2,7 @@
 content_type: resource
 description: "Lecture presentation on user de\uFB01ned datatypes, structures, unions,\
   \ bit\uFB01elds, memory allocation, linked lists, and binary trees."
-file: /courses/6-087-practical-programming-in-c-january-iap-2010/1aa34decd30f336826cd087d2f52035b_MIT6_087IAP10_lec06.pdf
+file: /ol-ocw-studio-app/courses/6-087-practical-programming-in-c-january-iap-2010/1aa34decd30f336826cd087d2f52035b_MIT6_087IAP10_lec06.pdf
 file_size: 251631
 file_type: application/pdf
 learning_resource_types:
