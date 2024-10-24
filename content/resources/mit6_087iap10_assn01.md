@@ -3,7 +3,7 @@ content_type: resource
 description: "Problem set on writing, compiling, and debugging C programs, preprocessor\
   \ macros, the C \uFB01le structure, variables, functions and program statements,\
   \ and returning from functions."
-file: /courses/6-087-practical-programming-in-c-january-iap-2010/cd5418a0535359a7ac9aba2a1ab9fb71_MIT6_087IAP10_assn01.pdf
+file: /ol-ocw-studio-app/courses/6-087-practical-programming-in-c-january-iap-2010/cd5418a0535359a7ac9aba2a1ab9fb71_MIT6_087IAP10_assn01.pdf
 file_size: 162507
 file_type: application/pdf
 learning_resource_types:
