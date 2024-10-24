@@ -4,7 +4,7 @@ description: "Problem set on programming in C, control \uFB02ow, functions, vari
   \ scope, static and global variables, I/O, printf and scanf, file I/O, character\
   \ arrays, error handling, labels, and goto. (This ZIP file contains: 1 .txt file\
   \ and 2 .c files.)"
-file: /courses/6-087-practical-programming-in-c-january-iap-2010/e69d005d49d18bbe6498104ebef9923c_MIT6_087IAP10_assn03.pdf
+file: /ol-ocw-studio-app/courses/6-087-practical-programming-in-c-january-iap-2010/e69d005d49d18bbe6498104ebef9923c_MIT6_087IAP10_assn03.pdf
 file_size: 148740
 file_type: application/pdf
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: 'Supporting files for a lab assignment to implement John Conway''s Game
   of Life as a C program. (This ZIP file contains: 3 .txt files, 3 .c files, and 1
   .h file.)'
-file: /courses/6-087-practical-programming-in-c-january-iap-2010/70f46b23902c2d37bc36100c10c9ab21_lab01.zip
+file: /ol-ocw-studio-app/courses/6-087-practical-programming-in-c-january-iap-2010/70f46b23902c2d37bc36100c10c9ab21_lab01.zip
 file_size: 4553
 file_type: application/zip
 learning_resource_types:
