@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture presentation on the C standard library: stdio.h, ctype.h, stdlib.h,
   assert.h, stdarg.h, and time.h.'
-file: /ol-ocw-studio-app/courses/6-087-practical-programming-in-c-january-iap-2010/2d7ce9e81c1ce03c8c93a12c9d21d0dd_MIT6_087IAP10_lec10.pdf
+file: /courses/6-087-practical-programming-in-c-january-iap-2010/2d7ce9e81c1ce03c8c93a12c9d21d0dd_MIT6_087IAP10_lec10.pdf
 file_size: 184883
 file_type: application/pdf
 learning_resource_types:

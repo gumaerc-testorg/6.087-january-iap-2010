@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on programming in C, control flow, and standard
   input and output.
-file: /ol-ocw-studio-app/courses/6-087-practical-programming-in-c-january-iap-2010/262cf4e05f039e45c926109c8aa95024_MIT6_087IAP10_lec04.pdf
+file: /courses/6-087-practical-programming-in-c-january-iap-2010/262cf4e05f039e45c926109c8aa95024_MIT6_087IAP10_lec04.pdf
 file_size: 195449
 file_type: application/pdf
 learning_resource_types:

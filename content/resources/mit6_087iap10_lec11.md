@@ -3,7 +3,7 @@ content_type: resource
 description: "Lecture presentation on dynamic memory allocation, designing the malloc()\
   \ function, a simple implementation of malloc(), a real-world implementation of\
   \ malloc(), using malloc(), using valgrind, and garbage collection. \r\n"
-file: /ol-ocw-studio-app/courses/6-087-practical-programming-in-c-january-iap-2010/626730575787751a6468f681d95ecb9f_MIT6_087IAP10_lec11.pdf
+file: /courses/6-087-practical-programming-in-c-january-iap-2010/626730575787751a6468f681d95ecb9f_MIT6_087IAP10_lec11.pdf
 file_size: 239841
 file_type: application/pdf
 learning_resource_types:

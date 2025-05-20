@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on programming in C, linked lists, and binary trees.
-file: /ol-ocw-studio-app/courses/6-087-practical-programming-in-c-january-iap-2010/887507ff7915f9ae2dce38f47b59e689_MIT6_087IAP10_assn05.pdf
+file: /courses/6-087-practical-programming-in-c-january-iap-2010/887507ff7915f9ae2dce38f47b59e689_MIT6_087IAP10_assn05.pdf
 file_size: 86716
 file_type: application/pdf
 learning_resource_types:
