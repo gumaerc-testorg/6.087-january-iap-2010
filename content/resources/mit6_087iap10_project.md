@@ -2,7 +2,7 @@
 content_type: resource
 description: Final project to build a C application leveraging one or more open-source
   libraries.
-file: /ol-ocw-studio-app/courses/6-087-practical-programming-in-c-january-iap-2010/9796fe2dda5404aa9d14a49081b842d8_MIT6_087IAP10_project.pdf
+file: /courses/6-087-practical-programming-in-c-january-iap-2010/9796fe2dda5404aa9d14a49081b842d8_MIT6_087IAP10_project.pdf
 file_size: 76386
 file_type: application/pdf
 learning_resource_types:
