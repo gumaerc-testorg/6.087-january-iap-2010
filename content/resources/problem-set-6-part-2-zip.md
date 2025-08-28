@@ -1,11 +1,10 @@
 ---
 content_type: resource
-description: 'Supporting files for a problem set on programming in C, pointers to
-  pointers, multidimensional arrays, stacks, and queues. (This ZIP file contains:
-  1 .txt file and 2 .c files.)'
+description: 'Supporting files for a problem set on function pointers and hash tables.
+  (This ZIP file contains: 1 .txt file and 2 .c files.)'
 draft: false
-file: /ol-ocw-studio-app/courses/6-087-practical-programming-in-c-january-iap-2010/9360fb4e5f2275ada00227b936f714d9_assn06a.zip
-file_size: 47927
+file: /ol-ocw-studio-app/courses/6-087-practical-programming-in-c-january-iap-2010/32104fd7cc9c7bd7b99d797a113234df_assn06b.zip
+file_size: 233661
 file_type: application/zip
 image_metadata:
   caption: ''
@@ -20,7 +19,7 @@ parent_type: CourseSection
 parent_uid: 60ba6644-2570-614e-679d-7b629c9bec9d
 resourcetype: Other
 title: 'Problem Set 6: Part 2 (ZIP)'
-uid: 9360fb4e-5f22-75ad-a002-27b936f714d9
+uid: 32104fd7-cc9c-7bd7-b99d-797a113234df
 video_files:
   archive_url: ''
   video_captions_file: ''
@@ -33,4 +32,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
-Supporting files for a problem set on programming in C, pointers to pointers, multidimensional arrays, stacks, and queues. (This ZIP file contains: 1 .txt file and 2 .c files.)
+Supporting files for a problem set on function pointers and hash tables. (This ZIP file contains: 1 .txt file and 2 .c files.)
